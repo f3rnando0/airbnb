@@ -2213,7 +2213,7 @@ textarea.w-select {
 :root {
   --neutral--700: #494950;
   --neutral--800: #0d0d0f;
-  --accent--primary-1: #b0916d;
+  --accent--primary-1: #ffab2e;
   --neutral--600: #797a86;
   --neutral--100: white;
   --neutral--300: #e4e4e7;
@@ -2237,7 +2237,7 @@ textarea.w-select {
   --system--red-200: #ffbec2;
   --system--red-100: #ffeff0;
   --system--orange-400: #d5691b;
-  --system--orange-300: #ff9e2c;
+  --system--orange-300: #bf8022;
   --system--orange-200: #ffd19b;
   --system--orange-100: #fff3e4;
   --general--shadow-04: rgba(20, 20, 43, 0.14);

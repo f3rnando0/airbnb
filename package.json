@@ -7,7 +7,9 @@
   "type": "module",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
   "scripts": {
     "dev": "nodemon --ignore node_modules ./src/server.js"
   },

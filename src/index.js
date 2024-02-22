@@ -18,7 +18,7 @@ app.get('/', (request, response) => {
 
   if (!langs) language = 'en';
   else if (langs[0] === 'it-IT') language = 'it';
-  else if (langs[0] === 'pt-BR') language = 'br';
+  else if (langs[0] === 'pt-BR' || langs[0] === 'pt-PT') language = 'br';
   else if (langs[0] === 'en-US') language = 'en';
   else language = 'en';
 
